@@ -1,3 +1,4 @@
 ---
 containerd: true
 iptables_legacy: true
+kubeadm: true
